@@ -1,2 +1,2 @@
 # Flight-Management-System
-Flight Management System using Dijkstra and Binary Search
+Flight Management System using Dijkstra Algorithm and Binary Search
